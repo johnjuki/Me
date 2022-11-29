@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Me</string>
+    <string name="android_logo_content_description">Android Logo</string>
+    <string name="my_name">John Njuki</string>
+    <string name="my_occupation">Android Dev</string>
+    <string name="phone_number_content_desc">Phone Number</string>
+    <string name="phone">+254 758 837879</string>
+    <string name="github_content_desc">Github Username</string>
+    <string name="github_username">\@johnjuki</string>
+    <string name="email_content_desc">Email</string>
+    <string name="email">john.prodev@proton.me</string>
+    <string name="android">android</string>
+</resources>
