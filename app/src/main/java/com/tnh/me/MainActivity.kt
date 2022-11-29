@@ -156,7 +156,6 @@ private fun ContactInfo(
 
 @Composable
 private fun ContactInfoDetails(iconResource: Int, contentDescription: String, contact: String) {
-    Spacer(modifier = Modifier.width(50.dp))
     Icon(
         painter = painterResource(iconResource),
         contentDescription = contentDescription,
